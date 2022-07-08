@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a guy trying to code in HaxeFlixel for Friday Night Funkin' and that's really all I will do here. Currently working on my fork of Psych Engine.
+I'm a guy trying to code in HaxeFlixel for Friday Night Funkin' and that's really all I will do here. Currently working on my fork of Psych Engine. Btw it's privated until it's actually ready to be used.
 
-My pronouns are he/him but idc I'm not gonna throw a hissy fit.
+My pronouns are he/him but you can use they/them idc I'm not gonna throw a hissy fit.
 
 * YouTube: https://www.youtube.com/channel/UCBSHdA1QXFNWwmYL6sIbH_g
 
