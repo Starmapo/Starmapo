@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Starmapo (he/him), a guy trying to code in HaxeFlixel for Friday Night Funkin' and that's really most of what I'll do here. Currently working on a PvP mod.
+I'm Starmapo (he/him), a guy trying to code in HaxeFlixel. Most of the stuff here is Friday Night Funkin' related.
 
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,vscode)](https://skillicons.dev)
 
