@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-I'm Starmapo (he/him), a guy trying to code in HaxeFlixel. Most of the stuff here is Friday Night Funkin' related.
+I'm Starmapo, a guy trying to code in HaxeFlixel. Most of the stuff here is Friday Night Funkin' related.
 
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,vscode)](https://skillicons.dev)
 
 * YouTube: https://www.youtube.com/channel/UCBSHdA1QXFNWwmYL6sIbH_g
+
+If you'd like to know a bit more about me...
+* Furry
+* Bisexual
+* Shitty art skills
 
 <!--
 **Starmapo/Starmapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
