@@ -8,7 +8,7 @@ I'm Starmapo, a guy trying to code in HaxeFlixel. Most of the stuff here is Frid
 
 If you'd like to know a bit more about me...
 * Furry
-* Bisexual
+* Pansexual
 * Shitty art skills
 
 <!--
