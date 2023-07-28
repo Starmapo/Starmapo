@@ -4,7 +4,7 @@ I'm Starmapo, a guy trying to code in HaxeFlixel. Most of the stuff here is Frid
 
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,vscode)](https://skillicons.dev)
 
-* YouTube: https://www.youtube.com/channel/UCBSHdA1QXFNWwmYL6sIbH_g
+* Links: https://starmapo.carrd.co/
 
 If you'd like to know a bit more about me...
 * Furry
