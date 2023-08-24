@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Starmapo, a guy trying to code some silly stuff. Most of the stuff here is Friday Night Funkin' related. You can find more of my links through my website on my profile.
+I'm Starmapo, a guy trying to code some silly stuff. Most of the stuff here is Friday Night Funkin' related.
+
+You can find more of my links through my website on my profile.
 
 ## Skills
 
