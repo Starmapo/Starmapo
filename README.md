@@ -1,15 +1,37 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Starmapo, a guy trying to code in HaxeFlixel. Most of the stuff here is Friday Night Funkin' related.
+I'm Starmapo, a guy trying to code some silly stuff. Most of the stuff here is Friday Night Funkin' related. You can find more of my links through my website on my profile.
 
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,vscode)](https://skillicons.dev)
+## Skills
 
-* Links: https://starmapo.carrd.co/
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel)](https://skillicons.dev)
 
-If you'd like to know a bit more about me...
-* Furry
-* Pansexual
-* Shitty art skills
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starmapo)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Starmapo)
+
+## My repositories
+
+### Games
+
+- [Friday Night Funkin' PvP](https://github.com/Starmapo/Funkin-PvP)
+
+### Mods
+
+- [FNF Lullaby Edit](https://github.com/Starmapo/Lullaby-Forever-Fix)
+- [Psych Engine Extra](https://github.com/Starmapo/FNF-PsychEngine-Extra)
+
+### Other
+
+- [Animation Frames Exporter](https://github.com/Starmapo/Animation-Frames-Exporter)
+
+## A bit more about me
+
+- Furry
+- Pansexual
+- Shitty art skills
 
 <!--
 **Starmapo/Starmapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
