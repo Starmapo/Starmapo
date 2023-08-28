@@ -18,12 +18,13 @@ You can find more of my links through my website on my profile.
 
 ### Games
 
-- [Friday Night Funkin' PvP](https://github.com/Starmapo/Funkin-PvP)
+- [Friday Night Funkin' PvP](https://github.com/Starmapo/Funkin-PvP) **(Unfinished)**
 
 ### Mods
 
+- [Leather Engine - Mania Plus](https://github.com/Starmapo/LeatherEngine-ManiaPlus)
 - [FNF Lullaby Edit](https://github.com/Starmapo/Lullaby-Forever-Fix)
-- [Psych Engine Extra](https://github.com/Starmapo/FNF-PsychEngine-Extra)
+- [Psych Engine Extra](https://github.com/Starmapo/FNF-PsychEngine-Extra) **(Unfinished)**
 
 ### Other
 
