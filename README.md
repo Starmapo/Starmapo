@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Starmapo, a guy trying to code some silly stuff.
+I'm Starmapo, a guy trying to make some silly stuff.
 
 You can find more of my links through my website on my profile.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel)](https://skillicons.dev)
+I've learnt [Haxe](https://haxe.org/) well enough since 2021, and I can code games using the [HaxeFlixel](https://haxeflixel.com/) game engine. Particularly, I have a lot of experience with making modifications for the game [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) and its fan-made engines.
 
 ## Stats
 
@@ -28,7 +28,7 @@ You can find more of my links through my website on my profile.
 - [FNF PC Port](https://github.com/Starmapo/Funkin-PC-Port): A fork of the [Friday Night Funkin' Week 7 update](https://github.com/FunkinCrew/funkin) that allows it to be played on desktop
 - [FNF Lullaby Edit](https://github.com/Starmapo/Lullaby-Forever-Fix): An edit of the unfinished Friday Night Funkin' Lullaby V2 update for optimization (so that I could play through it)
 
-### Other
+### Tools
 
 - [Animation Frames Exporter](https://github.com/Starmapo/Animation-Frames-Exporter): An app to view spritesheet animations and export the frames as images
 
