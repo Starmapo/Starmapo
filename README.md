@@ -8,12 +8,6 @@ You can find more of my links through my website on my profile.
 
 I've learnt [Haxe](https://haxe.org/) well enough since 2021, and I can code games using the [HaxeFlixel](https://haxeflixel.com/) game engine. Particularly, I have a lot of experience with making modifications for the game [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) and its fan-made engines.
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starmapo)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Starmapo)
-
 ## Notable repositories
 
 ### Libraries
