@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Starmapo, a guy trying to make some silly stuff.
+I'm Flainn, a guy trying to make some silly stuff. You can also call me Star, my username on sites is usually Starmapo.
 
 You can find more of my links through my website on my profile.
 
