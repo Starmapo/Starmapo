@@ -6,7 +6,7 @@ You can find more of my links through my website on my profile.
 
 ## Skills
 
-I've learnt [Haxe](https://haxe.org/) well enough since 2021, and I can code games using the [HaxeFlixel](https://haxeflixel.com/) game engine. Particularly, I have a lot of experience with making modifications for the game [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) and its fan-made engines.
+I've learnt [Haxe](https://haxe.org/) well enough since 2021, and I can code games using the [HaxeFlixel](https://haxeflixel.com/) game engine. Particularly, I have a lot of experience with making modifications for the game [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) and its fan-made engines. I've made some contributions to HaxeFlixel itself, including [a new text input object](https://github.com/HaxeFlixel/flixel/pull/3219).
 
 ## Notable repositories
 
