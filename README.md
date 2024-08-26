@@ -8,7 +8,13 @@ You can find more of my links through my website on my profile.
 
 I've learnt [Haxe](https://haxe.org/) well enough since 2021, and I can code games using the [HaxeFlixel](https://haxeflixel.com/) game engine. Particularly, I have a lot of experience with making modifications for the game [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) and its fan-made engines. I've made some contributions to HaxeFlixel itself, including [a new text input object](https://github.com/HaxeFlixel/flixel/pull/3219).
 
-## Notable repositories
+## Repositories I've contributed to
+
+- [HaxeFlixel](https://github.com/HaxeFlixel/flixel): Free, cross-platform 2D game engine powered by Haxe and OpenFL
+- [haxeui-core](https://github.com/haxeui/haxeui-core): The core library of the HaxeUI framework
+- [haxeui-flixel](https://github.com/haxeui/haxeui-flixel): The Flixel backend of the HaxeUI framework
+
+## My notable repositories
 
 ### Libraries
 
